@@ -1,0 +1,9 @@
+{
+  "equity": 100.0,
+  "pos": null,
+  "pending": null,
+  "last_bar": 0,
+  "trades": 0,
+  "day_counts": {},
+  "held": []
+}
