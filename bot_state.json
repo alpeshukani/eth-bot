@@ -2,12 +2,12 @@
   "equity": 100.0,
   "pos": null,
   "pending": null,
-  "last_bar": 1794862800,
+  "last_bar": 1794866400,
   "trades": 0,
   "day_counts": {},
   "held": [],
-  "last_price": 1831.495,
-  "last_run": "2026-11-16 22:05 UTC",
+  "last_price": 1824.999,
+  "last_run": "2026-11-16 23:05 UTC",
   "mode": "PAPER",
   "last_heartbeat": "2026-11-16"
 }
