@@ -2,7 +2,7 @@
   "equity": 98.33569625500002,
   "pos": null,
   "pending": null,
-  "last_bar": 1794913200,
+  "last_bar": 1794916800,
   "trades": 1,
   "day_counts": {
     "20774": 1
@@ -10,8 +10,8 @@
   "held": [
     "20774|CDL|1805.1"
   ],
-  "last_price": 1815.701,
-  "last_run": "2026-11-17 12:05 UTC",
+  "last_price": 1826.272,
+  "last_run": "2026-11-17 13:05 UTC",
   "mode": "PAPER",
   "last_heartbeat": "2026-11-17"
 }
