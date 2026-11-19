@@ -1,8 +1,16 @@
 {
   "equity": 95.81888578380007,
   "pos": null,
-  "pending": null,
-  "last_bar": 1795078800,
+  "pending": {
+    "dir": -1,
+    "px": 1810.65,
+    "sl": 1817.3104,
+    "tp": 1803.9896,
+    "bar_ts": 1795082400,
+    "day": "20776",
+    "kind": "CDH"
+  },
+  "last_bar": 1795082400,
   "trades": 4,
   "day_counts": {
     "20775": 1,
@@ -12,8 +20,8 @@
     "20775|CDL|1794.25",
     "20776|CDH|1808.0"
   ],
-  "last_price": 1808.571,
-  "last_run": "2026-11-19 10:05 UTC",
+  "last_price": 1803.259,
+  "last_run": "2026-11-19 11:05 UTC",
   "mode": "PAPER",
   "last_heartbeat": "2026-11-19"
 }
