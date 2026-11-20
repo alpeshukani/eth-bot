@@ -10,7 +10,7 @@
     "day": "20777",
     "kind": "CDL"
   },
-  "last_bar": 1795190400,
+  "last_bar": 1795194000,
   "trades": 5,
   "day_counts": {
     "20776": 2
@@ -19,8 +19,8 @@
     "20776|CDH|1808.0",
     "20776|CDH|1810.65"
   ],
-  "last_price": 1628.137,
-  "last_run": "2026-11-20 17:05 UTC",
+  "last_price": 1627.515,
+  "last_run": "2026-11-20 18:05 UTC",
   "mode": "PAPER",
   "last_heartbeat": "2026-11-20"
 }
