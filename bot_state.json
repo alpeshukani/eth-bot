@@ -10,7 +10,7 @@
     "day": "20780",
     "kind": "PDH"
   },
-  "last_bar": 1795424400,
+  "last_bar": 1795428000,
   "trades": 7,
   "day_counts": {
     "20779": 1
@@ -18,8 +18,8 @@
   "held": [
     "20779|PDH|1715.8"
   ],
-  "last_price": 1723.459,
-  "last_run": "2026-11-23 10:05 UTC",
+  "last_price": 1723.067,
+  "last_run": "2026-11-23 11:05 UTC",
   "mode": "PAPER",
   "last_heartbeat": "2026-11-23"
 }
