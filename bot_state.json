@@ -1,26 +1,32 @@
 {
   "equity": 95.40064989910019,
-  "pos": null,
-  "pending": {
-    "dir": -1,
-    "px": 1698.25,
+  "pos": {
+    "side": "SHORT",
+    "entry_px": 1698.25,
+    "qty": 14.0,
     "sl": 1709.3656,
     "tp": 1687.1344,
-    "bar_ts": 1795687200,
-    "day": "20783",
-    "kind": "PDH"
+    "entry_fee": 0.04755100000000001,
+    "entry_ts": 1795690800,
+    "entry_bar_ts": 1795690800,
+    "lvl": 1698.25,
+    "kind": "PDH",
+    "day": "20783"
   },
-  "last_bar": 1795687200,
+  "pending": null,
+  "last_bar": 1795690800,
   "trades": 12,
   "day_counts": {
-    "20782": 2
+    "20782": 2,
+    "20783": 1
   },
   "held": [
     "20782|CDL|1648.2",
-    "20782|CDL|1632.2"
+    "20782|CDL|1632.2",
+    "20783|PDH|1698.25"
   ],
-  "last_price": 1693.751,
-  "last_run": "2026-11-26 11:05 UTC",
+  "last_price": 1705.627,
+  "last_run": "2026-11-26 12:05 UTC",
   "mode": "PAPER",
   "last_heartbeat": "2026-11-26"
 }
