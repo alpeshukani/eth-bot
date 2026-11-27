@@ -1,8 +1,16 @@
 {
   "equity": 94.6824306413002,
   "pos": null,
-  "pending": null,
-  "last_bar": 1795784400,
+  "pending": {
+    "dir": -1,
+    "px": 1666.9,
+    "sl": 1731.1376,
+    "tp": 1602.6624,
+    "bar_ts": 1795788000,
+    "day": "20784",
+    "kind": "PDL"
+  },
+  "last_bar": 1795788000,
   "trades": 14,
   "day_counts": {
     "20783": 1,
@@ -12,8 +20,8 @@
     "20783|PDH|1698.25",
     "20784|PDH|1729.4"
   ],
-  "last_price": 1724.667,
-  "last_run": "2026-11-27 14:05 UTC",
+  "last_price": 1638.046,
+  "last_run": "2026-11-27 15:05 UTC",
   "mode": "PAPER",
   "last_heartbeat": "2026-11-27"
 }
